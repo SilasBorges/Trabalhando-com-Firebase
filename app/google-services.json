@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913162121141",
+    "firebase_url": "https://appscurso-fef5c-default-rtdb.firebaseio.com",
+    "project_id": "appscurso-fef5c",
+    "storage_bucket": "appscurso-fef5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913162121141:android:864bd5a11ed960234f73fc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913162121141-d53ifbts4sqgqeb2m4satvvnp3g9p5og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseproject",
+            "certificate_hash": "e136739810f9db00335c2abe3799b4de8d0a73a1"
+          }
+        },
+        {
+          "client_id": "913162121141-kdsmvuqplenkr8olmc7aun2ev0goehrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36tLYAvX1TOVJdkHVZf5w2y5VbBylEj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913162121141-kdsmvuqplenkr8olmc7aun2ev0goehrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
